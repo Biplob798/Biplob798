@@ -1,7 +1,7 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=35&duration=3000&pause=1000&color=FFFFFF&background=2C577E&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Biplob+Islam;I'm++Junior+Web+Developer+;And+MERN+Stack+Developer;Contact+Me+By+Email+%7C%7C+Whatsapp" alt="Typing SVG" /></a></h1>
 <br/>
-<img src="https://github.com/Biplob798/Biplob798/blob/main/images/Blue-Banner.png" alt="my-banner" />
+<img src="https://github.com/Biplob798/Biplob798/blob/main/Biplob%20cover.png" alt="my-banner" />
 <br/>
 <div>
 
