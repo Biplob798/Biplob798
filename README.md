@@ -40,14 +40,14 @@
 <br/>
 <br/>
 <p align="center">
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/HTML.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/CSS.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/Bootstrap.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/Tailwind.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/JavaScript.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/React.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/ReactRouterDom.png"/>
-<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/images/Firebase.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/HTML.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/CSS.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/Bootstrap.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/Tailwind.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/JavaScript.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/React.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/ReactRouterDom.png"/>
+<img height="150" src="https://github.com/Biplob798/Biplob798/blob/main/Firebase.png"/>
 </p>
 <br/>
 <div align="center">
