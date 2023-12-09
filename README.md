@@ -4,8 +4,8 @@
 <img src="https://github.com/Biplob798/Biplob798/blob/main/Biplob%20cover.png" alt="my-banner" />
 <br/>
 <div>
-
-- 🌱 I’m currently learning **Express JS**
+- I'm a Front-End Developer proficient in HTML, CSS, JavaScript, React, Tailwind CSS, MongoDB, and Firebase. My focus is on creating visually appealing and responsive web interfaces. With a passion for innovation, I aspire to contribute meaningfully to web development, shaping seamless and enjoyable online experiences for users.
+- 🌱 I’m currently learning **node JS**
 
 - 💬 Ask me about **React**
 
